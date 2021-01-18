@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2021-01-18 00:52:09 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2021-01-09 23:26:58 -0500"
@@ -446,6 +452,12 @@
     },
     "done": true
   },
+  "railcraft:carts/root": {
+    "criteria": {
+      "step_on_track": "2021-01-18 01:00:17 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-01-09 20:04:12 -0500"
@@ -505,6 +517,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2021-01-09 23:38:15 -0500"
+    },
+    "done": true
+  },
+  "astralsorcery:attune_self": {
+    "criteria": {
+      "attune_self_major": "2021-01-17 23:04:14 -0500"
     },
     "done": true
   },
@@ -648,8 +666,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "phantasmagoric_inferno": "2021-01-18 17:52:46 -0500",
       "corrupted_sands": "2021-01-10 17:23:40 -0500",
-      "fungi_forest": "2021-01-11 20:25:52 -0500"
+      "fungi_forest": "2021-01-11 20:25:52 -0500",
+      "undergarden": "2021-01-18 16:37:09 -0500"
     },
     "done": false
   },
@@ -686,6 +706,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2021-01-09 23:36:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2021-01-17 23:38:07 -0500"
     },
     "done": true
   },
@@ -901,10 +927,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2021-01-18 17:45:23 -0500",
       "skeleton": "2021-01-09 23:09:31 -0500",
       "zombie": "2021-01-09 22:58:11 -0500",
+      "cave_spider": "2021-01-18 16:35:10 -0500",
       "spider": "2021-01-10 16:55:56 -0500",
-      "creeper": "2021-01-10 16:55:26 -0500"
+      "ghast": "2021-01-18 16:39:26 -0500",
+      "creeper": "2021-01-10 16:55:26 -0500",
+      "enderman": "2021-01-17 22:17:42 -0500"
     },
     "done": false
   },
@@ -920,9 +950,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2021-01-17 22:52:50 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2021-01-09 22:47:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2021-01-18 01:03:50 -0500"
     },
     "done": true
   },
@@ -1106,6 +1148,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2021-01-17 22:53:35 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2021-01-09 19:42:07 -0500"
@@ -1197,6 +1245,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2021-01-18 17:55:27 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2021-01-09 19:45:00 -0500"
@@ -1269,6 +1323,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/ash_block": {
+    "criteria": {
+      "has_item": "2021-01-18 17:55:46 -0500"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/terrestrial_artifact": {
     "criteria": {
       "emerald": "2021-01-11 18:11:14 -0500"
@@ -1290,6 +1350,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2021-01-11 17:25:08 -0500"
+    },
+    "done": true
+  },
+  "enderio:start/1_infinity_powder_get": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-01-18 00:09:24 -0500"
     },
     "done": true
   },
@@ -1368,6 +1434,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-01-09 20:04:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2021-01-18 00:25:44 -0500"
     },
     "done": true
   },
@@ -1600,6 +1672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2021-01-17 22:53:35 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2021-01-09 20:03:03 -0500"
@@ -1678,6 +1756,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2021-01-17 22:53:35 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2021-01-09 23:09:55 -0500"
@@ -1687,6 +1771,18 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2021-01-09 23:26:58 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/coal_from_ash": {
+    "criteria": {
+      "has_gem_block": "2021-01-18 17:55:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2021-01-17 22:52:50 -0500"
     },
     "done": true
   },
@@ -1961,6 +2057,12 @@
     },
     "done": true
   },
+  "enderio:root": {
+    "criteria": {
+      "location": "2021-01-18 00:08:57 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2021-01-09 19:35:02 -0500"
@@ -2009,6 +2111,12 @@
     },
     "done": true
   },
+  "enderio:start/2_simple_chassis_get": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-01-18 00:22:12 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2021-01-09 22:56:44 -0500"
@@ -2033,6 +2141,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/gray_dye_from_ash": {
+    "criteria": {
+      "has_flower": "2021-01-18 17:55:46 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2021-01-09 19:59:01 -0500"
@@ -2042,6 +2156,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2021-01-09 19:35:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2021-01-17 22:52:50 -0500"
     },
     "done": true
   },

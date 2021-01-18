@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2021-01-18 14:46:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2021-01-10 14:56:42 -0500"
@@ -509,6 +515,12 @@
     },
     "done": true
   },
+  "astralsorcery:attune_self": {
+    "criteria": {
+      "attune_self_major": "2021-01-17 22:46:13 -0500"
+    },
+    "done": true
+  },
   "twilightforest:alt/compat/tconstruct": {
     "criteria": {
       "pattern": "2021-01-08 16:14:12 -0500"
@@ -593,9 +605,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2021-01-18 15:50:50 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-08 16:56:35 -0500"
+    },
+    "done": true
+  },
+  "astralsorcery:craft_t3_altar": {
+    "criteria": {
+      "altar_craft_t3_altar": "2021-01-17 22:23:49 -0500"
     },
     "done": true
   },
@@ -620,6 +644,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2021-01-17 15:11:37 -0500"
+    },
+    "done": true
+  },
+  "astralsorcery:perk_level_medium": {
+    "criteria": {
+      "gain_perk_level_medium": "2021-01-18 00:20:53 -0500"
     },
     "done": true
   },
@@ -652,6 +682,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "phantasmagoric_inferno": "2021-01-18 18:20:55 -0500",
       "corrupted_sands": "2021-01-17 00:26:12 -0500"
     },
     "done": false
@@ -794,6 +825,12 @@
     },
     "done": true
   },
+  "astralsorcery:perk_level_small": {
+    "criteria": {
+      "gain_perk_level_small": "2021-01-17 23:59:44 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2021-01-08 16:51:04 -0500"
@@ -898,10 +935,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2021-01-18 18:21:42 -0500",
       "stray": "2021-01-10 14:41:01 -0500",
       "zombie_villager": "2021-01-09 21:56:07 -0500",
       "skeleton": "2021-01-08 16:36:24 -0500",
       "husk": "2021-01-17 15:10:17 -0500",
+      "blaze": "2021-01-18 18:22:00 -0500",
       "zombie": "2021-01-08 16:12:41 -0500",
       "witch": "2021-01-10 16:19:58 -0500",
       "spider": "2021-01-08 16:30:13 -0500",
@@ -1030,6 +1069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2021-01-18 01:09:46 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2021-01-09 19:51:39 -0500"
@@ -1126,6 +1171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2021-01-18 15:50:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2021-01-10 14:56:42 -0500"
@@ -1204,6 +1255,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2021-01-18 18:21:52 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2021-01-10 14:56:42 -0500"
@@ -1213,6 +1270,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2021-01-16 22:35:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2021-01-17 23:31:00 -0500"
     },
     "done": true
   },
@@ -1698,6 +1761,7 @@
       "taiga_cold_hills": "2021-01-11 17:22:57 -0500",
       "forest": "2021-01-08 16:34:24 -0500",
       "birch_forest": "2021-01-08 16:11:52 -0500",
+      "swampland": "2021-01-18 15:37:03 -0500",
       "deep_ocean": "2021-01-10 15:22:54 -0500",
       "beaches": "2021-01-17 15:06:42 -0500",
       "extreme_hills_with_trees": "2021-01-11 17:29:37 -0500",
@@ -1717,6 +1781,7 @@
       "taiga_cold": "2021-01-09 17:22:49 -0500",
       "ocean": "2021-01-09 17:59:52 -0500",
       "extreme_hills": "2021-01-11 17:23:23 -0500",
+      "roofed_forest": "2021-01-17 23:58:26 -0500",
       "cold_beach": "2021-01-09 17:59:26 -0500",
       "river": "2021-01-08 16:11:43 -0500",
       "jungle": "2021-01-17 15:20:03 -0500",
@@ -1892,6 +1957,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2021-01-17 23:59:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2021-01-08 16:06:58 -0500"
@@ -1937,6 +2008,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-08 16:56:35 -0500"
+    },
+    "done": true
+  },
+  "astralsorcery:find_weak_constellation": {
+    "criteria": {
+      "weak_constellation_discovered": "2021-01-18 16:42:10 -0500"
     },
     "done": true
   },
@@ -2063,6 +2140,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2021-01-08 16:10:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2021-01-18 15:15:28 -0500"
     },
     "done": true
   },
