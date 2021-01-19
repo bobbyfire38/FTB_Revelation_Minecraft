@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "astralsorcery:attune_crystal": {
+    "criteria": {
+      "attune_crystal_major_weak": "2021-01-18 22:33:41 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2021-01-08 16:09:36 -0500"
@@ -371,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2021-01-18 21:40:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2021-01-09 17:38:45 -0500"
@@ -414,6 +426,12 @@
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2021-01-17 15:39:25 -0500"
+    },
+    "done": true
+  },
+  "astralsorcery:craft_t4_altar": {
+    "criteria": {
+      "altar_craft_t4_altar": "2021-01-18 22:14:58 -0500"
     },
     "done": true
   },
@@ -1273,6 +1291,12 @@
     },
     "done": true
   },
+  "astralsorcery:celestial_crystals": {
+    "criteria": {
+      "rock_crystal_in_inventory": "2021-01-18 22:10:07 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_bricks": {
     "criteria": {
       "has_end_stone": "2021-01-17 23:31:00 -0500"
@@ -1691,6 +1715,12 @@
   "botania:main/lexicon_use": {
     "criteria": {
       "use_lexicon": "2021-01-11 18:19:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2021-01-18 21:50:57 -0500"
     },
     "done": true
   },
